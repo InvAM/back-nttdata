@@ -29,3 +29,5 @@
 # dichos usuarios se guardan dentro de la base de datos
 
 # comando para levantar proyecto: python manage.py runserver
+
+# comando para levantar el front: python -m http.server 3000
